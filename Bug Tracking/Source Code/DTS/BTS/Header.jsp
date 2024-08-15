@@ -7,7 +7,6 @@
 	<td align=""><font face="arial narrow" size="5px" color="orange"><b> Defect Tracking System</b></font></td>
 	</tr>
 	<tr>
-
 	<%
 	HttpSession hs=request.getSession();
     String uname=(String)hs.getAttribute("userid");
