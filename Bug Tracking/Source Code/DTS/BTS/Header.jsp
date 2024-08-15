@@ -18,7 +18,6 @@
                 <%if(role!="user"){%><b>[ <a href="./logout.jsp"><font color="#FBC61" size="3px">logout</font></a> ]</b><%} %>
             </td>
 	
-
 	</tr>
 	</table>
 	
