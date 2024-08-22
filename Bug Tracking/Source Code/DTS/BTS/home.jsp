@@ -12,7 +12,6 @@ var msg = 'Please Check your userid and password';
 <%
 }
 
-
 				if (request.getParameter("msg1") != null) {
 %>
 var msg1 = 'Permission not granted';
