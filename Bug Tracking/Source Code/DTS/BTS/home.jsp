@@ -23,7 +23,7 @@ var msg1 = 'Permission not granted';
 %>
 }
 
-		//}
+	//}
 		</script>
 	</head>
 
