@@ -15,7 +15,6 @@
                                 var val = F.value;
                                 if (val == "") { alert(T + " is mandatory"); return false; }
                             }
-
                             function validate() {
                                 alert("hai");
 
