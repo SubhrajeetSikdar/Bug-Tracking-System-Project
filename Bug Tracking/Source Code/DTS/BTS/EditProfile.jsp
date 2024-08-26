@@ -31,7 +31,6 @@
                                 if (ChkMandatoryField(editform.mobileno, 'MobileNo') == false) return false;
                                 if (ChkMandatoryField(editform.emailid, 'EmailID') == false) return false;
                                 if (ChkMandatoryField(editform.doj, 'Date Of Joining') == false) return false;
-
                                 if (editform.role.value == "select") {
                                     window.alert("Select Designation !");
                                     return false;
