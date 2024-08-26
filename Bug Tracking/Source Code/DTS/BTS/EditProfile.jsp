@@ -36,7 +36,6 @@
                                     window.alert("Select Designation !");
                                     return false;
                                 }
-
                                 if (editform.maritalstatus.value == "select") {
                                     window.alert("Select MaritalStatus !");
                                     return false;
