@@ -7,7 +7,6 @@
             <%} if(request.getParameter("cat").equals("HrManager")) {%>
                 <jsp:include page="./ManagerHeader.jsp" />
                 <%} }//top if %>
-
                     <%@page import="java.sql.*" %>
                         <br>
                         <script LANGUAGE="Javascript">
