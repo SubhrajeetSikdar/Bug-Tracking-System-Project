@@ -16,7 +16,6 @@
                             }
                             function validate() {
                                 alert("hai");
-
                                 if (ChkMandatoryField(editform.fname, 'FirstName') == false) return false;
                                 alert("hai")
                                 if (ChkMandatoryField(editform.lname, 'LastName') == false) return false;
